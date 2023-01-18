@@ -1,0 +1,23 @@
+/* div para que el texto resultante este alineado */
+div{
+    text-align: center;
+}
+/* body para ponerle el color de fondo */
+body{
+    background-image: url(./Assets/Fondo.jpg);
+    background-repeat: no-repeat; 
+    background-attachment: fixed;
+    background-size: cover;
+}
+.form-signin {
+    width: 100%;
+    max-width: 500px;
+    padding: 0px;
+    margin: auto;
+  }
+  
+  .form-control{
+    background-color: rgb(211, 238, 255);
+  }
+  
+ 
